@@ -1,2 +1,2 @@
 # Spring boot farm
- A database project using spring boot
+ A sheep farm database project using spring boot
